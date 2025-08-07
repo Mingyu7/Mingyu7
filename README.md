@@ -2,9 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%" height="auto"/>
 
 <!-- 프로필 이미지 -->
-<center><img src=./logo.jpg width="auto" height="200px" /></center>
+<center><img src=./logo.png width="auto" height="200px" /></center>
 
-# 👩‍💻 민규 (MinGyu)
+# 👩‍💻 이민규 (MinGyu)
 
 **"끊임없이 배우고 성장하는 개발자 지망생"**
 
@@ -36,23 +36,7 @@
 - 📱 **안드로이드 앱 개발**  
 - 🌐 **백엔드 개발 및 Spring 프레임워크 학습 예정**  
 - 🤖 **생성형 AI와 실무 적용 기술에 대한 관심**
-- 📊 **데이터 분석 및 시각화 기술 학습 중**
-
----
-
-## 🧪 현재 활동
-
-- 개인 프로젝트: **할 일 목록 앱 개발 중 (SQLite 활용)**
-- AI 프로젝트: **챗봇 / 음성인식 등 관심 분야 공부 중**
-- 웹 포트폴리오 및 Notion 정리 진행 중
-
----
-
-## 📬 Contact
-
-- Email: **(sin77770@gmail.com)**
-
-**더 성장하고 싶은 개발자 지망생 민입니다. 함께 배우고 성장해요!**
+- 📊 **데이터 분석 및 시각화 기술 학습 중이민규입니다. 함께 배우고 성장해요!**
 
 ---
 
